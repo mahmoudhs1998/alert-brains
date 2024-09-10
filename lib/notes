@@ -1,0 +1,29 @@
+we will delete it => this is for me.
+Don't forget
+
+
+ABDERLHMAN
+1. user model {
+    1 - age
+    2 - gender
+    3 - location
+    4 - language(https://stackoverflow.com/questions/63670067/how-to-get-the-current-locale-in-flutter-using-the-getx-package)
+    5 - country
+    6 - coins
+    7 - Gameslevel {quick math level , memo power level  , foucs level , speedynumbers level }
+    8 - bool is passed the games trial or not (local)
+}
+2. Home Ui 
+3. sharing the user data on the screens coming from firestore 
+4. gifts screen ui 
+5. adding crashlytics firebase
+
+
+ASMAA
+1. show onboarding only 1 time
+2. Display which screen based on user state
+3. language based on the device (https://stackoverflow.com/questions/63670067/how-to-get-the-current-locale-in-flutter-using-the-getx-package)
+4. splash screen logo
+
+
+

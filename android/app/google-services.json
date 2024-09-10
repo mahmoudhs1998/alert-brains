@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "18609994118",
+    "project_id": "alert-brain",
+    "storage_bucket": "alert-brain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18609994118:android:a906a2fd2d0c85171b1407",
+        "android_client_info": {
+          "package_name": "com.example.alert_brains"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18609994118-a304oundtrjbmh40r56p49emqakt99ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alert_brains",
+            "certificate_hash": "8414d7ec9f12696e90a6923f61cd2668d9b2a94e"
+          }
+        },
+        {
+          "client_id": "18609994118-ch3781ifi66l85thhhs5fv1kno6a9h77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alert_brains",
+            "certificate_hash": "8b95f714d66171ff9523f85cc9926e7e9b261a47"
+          }
+        },
+        {
+          "client_id": "18609994118-ta0l9kjstnl6h96ct2huc1t63c38j062.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGitbEDSqueR3TvuuOV4DO3WmLiO5ZiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18609994118-ta0l9kjstnl6h96ct2huc1t63c38j062.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18609994118-ka66g41u5eo7kbgj6323daufvlorblj5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alertBrains"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
